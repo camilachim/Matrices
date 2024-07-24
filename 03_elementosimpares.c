@@ -1,3 +1,4 @@
+//Libreria
 #include <stdio.h>
 
 //Define las dimensiones maximas de la matriz
